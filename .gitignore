@@ -1,0 +1,16 @@
+*.jou
+*.log
+*.str
+*.cache/
+*.webtalk/
+*.runs/
+*.hw/
+*.sim/
+*.ipcache/
+*.tmp/
+*.xgui/
+*.backup.jou
+*.backup.log
+*.wdb
+*.xml
+DPUCZDX8G_ip_repo_VAI_v3.0/*
